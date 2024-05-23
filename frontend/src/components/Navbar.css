@@ -1,0 +1,29 @@
+.navbar {
+    background: linear-gradient(to right, #030216, #0e0218);
+    padding: 10px;
+    
+  }
+  
+  .navbar nav ul {
+    list-style: none;
+    display: flex;
+    margin-left: 30px;
+    margin-right:40px
+  }
+  
+  .navbar nav ul li {
+    margin-right: 20px;
+  }
+  
+  .navbar nav ul li a {
+    text-decoration: none;
+    color: rgb(255, 248, 248);
+    font-weight: bold;
+    font-size: 18px;
+    margin-right: 60px;
+  }
+  
+  .navbar nav ul li a:hover {
+    color: #b5afcf; 
+  }
+  
